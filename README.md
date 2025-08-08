@@ -13,7 +13,7 @@ Right now I'm exploring GenAI, LLMs, and real world AI apps using LangChain, Fas
 ## 🚀 Recent Projects
 - **AmeenChat** (Ongoing) – LLM based banking assistant using LangChain + Ollama + RAG 
 - **Steganalysis Classifier** (Ongoing) – Deep learning model using EfficientNet on JPEG stego data
-- **Arabic Medical NLP Classifier** (June 2025) – Cleaned real Arabic queries and explored word embeddings, reaching 98% on SVC and fine tuned AraBERT to 98%
+- **Arabic Medical NLP Classifier** (June 2025) – Cleaned real Arabic queries and explored word embeddings, reaching 85.4% on SVC and fine tuned AraBERT to 98%
 
 ## Hope you find my work useful ^^
 <!---
