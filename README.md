@@ -1,13 +1,13 @@
 # Hi, I'm Nadeen <3
-- 🎓 I'm a 3rd (almost 4th ^^) Year AI & Data Science Student  
-- 📊 I'm super passionate about Data Analysis, Machine & Deep Learning, and Pattern Recognition
-- _And_ I love working with Databases & backend logic, understanding what goes on behind the blackbox functions.
+- 🎓 I'm a 4th year AI & Data Science Student
+- 📊 I'm very passionate about Data Analysis, Machine & Deep Learning, and GenAI
+- _And_ I love working with databases, backend logic, and understanding what goes on behind the blackbox functions.
 
 Right now I'm exploring GenAI, LLMs, and real world AI apps using LangChain, FastAPI, and more!
 
 ## 🛠️ Skills
-- **Languages:** _Mainly_ Python and SQL with some knowledge in Java
-- **AI Tools:** LangChain, Ollama, Hugging Face, TensorFlow, Keras, PyTorch 
+- **Languages:** Python, SQL
+- **Tools:** LangChain, Ollama, Hugging Face, OpenAI, TensorFlow, Keras, PyTorch, FastAPI 
 - **Focus Areas:** GenAI, CNNs, Arabic NLP, RAG, Prompt Engineering, Statistical Model Evaluation, EDA
 
 ## 🚀 Recent Projects
